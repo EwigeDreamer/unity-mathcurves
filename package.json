@@ -1,0 +1,30 @@
+{
+  "name": "com.ewigedreamer.mathcurves",
+  "version": "1.0.0",
+  "displayName": "Unity Math Curves",
+  "description": "Bezier and Catmull-Rom curves functions",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": { },
+  "keywords": [
+    "bezier",
+    "catmul",
+    "rom",
+    "math",
+    "curve"
+  ],
+  "samples": [
+    {
+      "displayName": "Curves usage",
+      "description": "Contains sample of usage of BezierUtility and CatmullRomUtility",
+      "path": "Samples~/CurvesSample"
+    }
+  ],
+  "author": {
+    "name": "Pavel Sborshchikov",
+    "email": "ewigedreamer@gmail.com",
+    "url": "https://github.com/EwigeDreamer"
+  }
+}

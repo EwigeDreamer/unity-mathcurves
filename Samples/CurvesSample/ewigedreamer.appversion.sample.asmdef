@@ -1,0 +1,16 @@
+{
+    "name": "ewigedreamer.appversion.sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c24d8e274df364820b23d9146eb07ab3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
