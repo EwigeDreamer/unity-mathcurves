@@ -1,4 +1,4 @@
-# Unity Extensions
+# Unity Math Curves
 
 There is some Bezier and Catmull-Rom curves functions.
 
