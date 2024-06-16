@@ -1,7 +1,7 @@
 {
   "name": "com.ewigedreamer.mathcurves",
-  "version": "1.0.1",
-  "displayName": "Unity Math Curves",
+  "version": "1.0.2",
+  "displayName": "ED Unity Math Curves",
   "description": "Bezier and Catmull-Rom curves functions",
   "unity": "2021.3",
   "documentationUrl": "",

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EwigeDreamer.Curves.Sample
+namespace ED.Curves.Sample
 {
     public class CatmullRomSample : MonoBehaviour
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EwigeDreamer.Curves.Sample
+namespace ED.Curves.Sample
 {
     internal static class ColorEx
     {

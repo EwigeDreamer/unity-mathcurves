@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EwigeDreamer.Curves
+namespace ED.Curves
 {
     public static class BezierUtility
     {
