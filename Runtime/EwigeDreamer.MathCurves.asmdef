@@ -1,9 +1,7 @@
 {
-    "name": "ewigedreamer.appversion.sample",
-    "rootNamespace": "",
-    "references": [
-        "GUID:c24d8e274df364820b23d9146eb07ab3"
-    ],
+    "name": "EwigeDreamer.MathCurves",
+    "rootNamespace": "ED.Curves",
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

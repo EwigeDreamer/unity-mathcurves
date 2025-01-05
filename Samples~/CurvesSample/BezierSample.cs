@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ED.Curves.Sample
+namespace ED.Curves.Samples
 {
     public class BezierSample : MonoBehaviour
     {
